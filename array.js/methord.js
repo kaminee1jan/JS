@@ -58,3 +58,6 @@
 // const myChildren = arr1.concat("Peter");  
 // console.log(myChildren);
 
+a=8
+b=9
+console.log(a+b)
