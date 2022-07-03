@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(127, 127, 224);
+}
+#container{
+    background-color:slategray;
+    border: 5px solid yellow;
+    height:275px;
+    width: 750px;
+    margin:auto;
+    text-align:center;
+}
+p{
+    color:whitesmoke;
+}
+#input1{
+    width:100px;
+    margin:25px auto;
+}
+#button{
+    margin: 25px auto;
+}
